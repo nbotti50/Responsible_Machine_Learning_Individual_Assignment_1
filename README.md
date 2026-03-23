@@ -27,7 +27,7 @@ The following Python libraries were used in this analysis (and, the purpose and 
 - `lifelines` – used for survival analysis, including Cox proportional hazards models and Kaplan-Meier estimation. 
 ---
 
-## 3. Instructions for Reproducing the Results
+## Instructions for Reproducing the Results
 
 To reproduce the results of this analysis, follow the steps below:
 
@@ -37,3 +37,4 @@ To reproduce the results of this analysis, follow the steps below:
    ```python
    !pip install pandas numpy matplotlib scikit-learn lifelines
 2. **Download .ipynb file and run all cells**
+3. **Note: URL's in the notebook are using files from another GitHub repository: https://github.com/propublica/compas-analysis/tree/master
