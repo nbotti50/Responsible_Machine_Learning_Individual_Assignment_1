@@ -38,3 +38,5 @@ To reproduce the results of this analysis, follow the steps below:
    !pip install pandas numpy matplotlib scikit-learn lifelines
 2. **Download .ipynb file and run all cells**
 3. **Note: No manual download of files is required. URLs retrieve data in the notebook, getting CSV files from another GitHub repository: https://github.com/propublica/compas-analysis/tree/master**
+
+A Statement on AI Usage: Google Gemini, embedded in Google Colab (the tool used to create the notebook), was used to identify a complex error message and guide thinking on how to solve it. Additionally, external internet sources, such as OpenStack, were used to identify Python packages that most closely reflect the R packages used in the notebook that needed to be translated into Python. All code was written and reviewed by me, ensuring that important statistical analyses from the R notebook were present in the Python version, and extensive conclusions and interpretations were made from the outputs given by the code. 
